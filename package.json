@@ -1,0 +1,24 @@
+{
+  "name": "@chatmarketing/shannon-string-entropy-index",
+  "version": "1.0.0",
+  "description": "Shannon's String Entropy Index implementation in ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatmarketing/shannon-string-entropy-index.git"
+  },
+  "keywords": [
+    "shannon",
+    "index",
+    "entropy"
+  ],
+  "author": "Mantas Maksvytis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chatmarketing/shannon-string-entropy-index/issues"
+  },
+  "homepage": "https://github.com/chatmarketing/shannon-string-entropy-index#readme"
+}
