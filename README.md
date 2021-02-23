@@ -3,5 +3,7 @@
 ## Usage
 
 CommonJS:
-`const shannonIndex = require("shannon-string-entropy-index")`
-`shannonIndex("string")`
+```javascript
+const shannonIndex = require("shannon-string-entropy-index")`
+shannonIndex("string")
+```
